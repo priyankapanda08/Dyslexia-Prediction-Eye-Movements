@@ -127,24 +127,6 @@ pip install numpy pandas scikit-learn matplotlib shap
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/dyslexia-feature-selection.git
-```
-
-2. Open the notebook or run the script:
-
-```bash
-python Dyslexia_PCA_Accumulation_RRA.py
-```
-
-3. Replace placeholder data loading with your actual feature dataset.
-
----
-
 ## 📚 Dataset
 
 The eye-tracking dataset used in this study is sourced from:
